@@ -1,2 +1,2 @@
-# eytrix
-Eytrix Inc.
+# Eytrix Inc.
+Eytrix enables governments and enterprises to query their security camera systems with ease, using natural language to search past footage (“Find a man with a blue backpack”), set up intelligent alerts (“Alert me if someone climbs over the wall”), and extract meaningful data from video streams (“How many vehicles entered yesterday?”)—all through a seamless, AI-powered interface.
